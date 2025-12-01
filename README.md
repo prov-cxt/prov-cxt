@@ -10,8 +10,8 @@ publicly accessible record of the idea’s existence and authorship.
 No implementation, model, or full specification is included at this
 stage.
 
-**Original conception:** <2024-03>  
-**Public disclosure (this repository):** <2025-12-01>
+**Original conception:** 2024-03  
+**Public disclosure (this repository):** 2025-12-01
 
 Further materials, drafts, or technical details may be added in future
 commits as the research progresses. This repository serves as the
