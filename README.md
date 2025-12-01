@@ -1,16 +1,18 @@
-## Hi there 👋
+# PROV-CXT
 
-<!--
-**prov-cxt/prov-cxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository establishes the first public disclosure of **PROV-CXT**, a
+research concept proposing an extension to the W3C PROV family of models
+for representing context provenance in LLM-driven and context-dependent
+computational workflows.
 
-Here are some ideas to get you started:
+The purpose of this repository is solely to create a timestamped,
+publicly accessible record of the idea’s existence and authorship.
+No implementation, model, or full specification is included at this
+stage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Original conception:** <2024-03>  
+**Public disclosure (this repository):** <2025-12-01>
+
+Further materials, drafts, or technical details may be added in future
+commits as the research progresses. This repository serves as the
+canonical public anchor for the PROV-CXT concept.
